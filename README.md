@@ -1,4 +1,3 @@
-
 from tda.auth import easy_client
 from tda.client import Client
 from tda.streaming import StreamClient
